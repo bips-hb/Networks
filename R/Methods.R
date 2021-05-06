@@ -1,11 +1,3 @@
-#JGL tests
-
-#http://www.benoslab.pitt.edu/manatakisECCB2018.html
-#http://www.benoslab.pitt.edu/Software/pimgm/  
-#for another paper, java script
-
-
-
 library(usethis)
 use_git_config(user.name = "Arne Godt", user.email = "arne23@hotmail.de")
 
