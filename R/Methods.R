@@ -1,7 +1,7 @@
 library(usethis)
 use_git_config(user.name = "Arne Godt", user.email = "arne23@hotmail.de")
 
-
+#test
 # Dieses Package enthält eine wichtige Funktion mit 2 Optionen.
 # Der Algorithmus braucht mehrere "ähnliche Netzwerke", also mehrere Beobachtungen gleicher Netzwerke
 # Die Methode gibt dann mehrere Konzentrationsmatrizen zurück
